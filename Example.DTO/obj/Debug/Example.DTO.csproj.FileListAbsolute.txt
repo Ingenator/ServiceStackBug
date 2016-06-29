@@ -1,0 +1,13 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\Example.DTO.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\Example.DTO.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Client.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Common.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Client.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Common.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\bin\Debug\ServiceStack.Text.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\obj\Debug\Example.DTO.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ServicesStackBug\Example.DTO\obj\Debug\Example.DTO.pdb
